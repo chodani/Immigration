@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 1fba4aba-0bfa-479c-890c-6de21edb7028
+      url: 'https://chodani.quarto.pub/immigration'
